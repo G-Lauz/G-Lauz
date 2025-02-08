@@ -10,8 +10,8 @@ Guided by passion and a belief that every problem has a solution, I pursue resea
 
 ### My Work
 - 🧰&nbsp;Handy lightweight tools for everyday scripting:
-  - **clipy**: A wrapper around the **argparse** package for easy CLI creation with decorators.
-  - **amnesis**: A simple CLI tool for tracking experiments locally.
+  - [**clipy**](https://github.com/G-Lauz/clipy): A wrapper around the **argparse** package for easy CLI creation with decorators.
+  - [**amnesis**](https://github.com/G-Lauz/amnesis): A simple CLI tool for tracking experiments locally.
 - 🌱&nbsp;Learning and exploring:
   - Generative modeling such as **Diffusion** models and **Transformers** architectures.
   - **Optimal Control** and **(Inverse) Reinforcement Learning** applied to a variety of vehicles.
