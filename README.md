@@ -9,8 +9,9 @@ Guided by passion and a belief that every problem has a solution, I pursue resea
 - 🌐&nbsp;Find me on&nbsp; <a href="https://www.linkedin.com/in/gabriel-lauzier"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 ### My Work
-- 🔭&nbsp;I'm currently working on:
-  - Developing a **Spigot and BungeeCord plugin** to handle connection messages through a multi-server configuration.
+- 🧰&nbsp;Handy lightweight tools for everyday scripting:
+  - **clipy**: A wrapper around the **argparse** package for easy CLI creation with decorators.
+  - **amnesis**: A simple CLI tool for tracking experiments locally.
 - 🌱&nbsp;Learning and exploring:
   - Generative modeling such as **Diffusion** models and **Transformers** architectures.
   - **Optimal Control** and **(Inverse) Reinforcement Learning** applied to a variety of vehicles.
